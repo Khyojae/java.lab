@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec05/splitExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec06/ArrayCreateByValueListExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch05/sec06/ArrayCreateByNewExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch05/sec06/ArrayCreateByValueListExample2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,18 +21,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Khyojae"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Khyojae&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Khyojae/java.lab.git",
-    "accountId": "2812ea69-a765-4814-9b8f-886cc81efbd0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Khyojae/java.lab.git&quot;,
+    &quot;accountId&quot;: &quot;2812ea69-a765-4814-9b8f-886cc81efbd0&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -46,13 +46,16 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.ArrayCreateByNewExample.executor": "Run",
     "애플리케이션.ArrayCreateByValueListExample1.executor": "Run",
+    "애플리케이션.ArrayCreateByValueListExample2.executor": "Run",
     "애플리케이션.CharAtExample.executor": "Run",
     "애플리케이션.EmptyStringExample.executor": "Run",
     "애플리케이션.EqualsExample.executor": "Run",
@@ -87,7 +90,8 @@
       <option name="presentableId" value="Default" />
       <updated>1765534631539</updated>
       <workItem from="1765534772947" duration="2752000" />
-      <workItem from="1765538431809" duration="1720000" />
+      <workItem from="1765538431809" duration="1945000" />
+      <workItem from="1765545658038" duration="650000" />
     </task>
     <servers />
   </component>
