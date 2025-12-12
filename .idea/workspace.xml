@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec06/ArrayCreateByNewExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec06/ArrayCreateByValueListExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch05/sec08/ArrayReferenceObjectExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch05/sec10/AdvancedForExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch05/sec11/MainStringArrayArgument.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,14 +54,17 @@
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.AdvancedForExample.executor": "Run",
     "애플리케이션.ArrayCreateByNewExample.executor": "Run",
     "애플리케이션.ArrayCreateByValueListExample1.executor": "Run",
     "애플리케이션.ArrayCreateByValueListExample2.executor": "Run",
+    "애플리케이션.ArrayReferenceObjectExample.executor": "Run",
     "애플리케이션.CharAtExample.executor": "Run",
     "애플리케이션.EmptyStringExample.executor": "Run",
     "애플리케이션.EqualsExample.executor": "Run",
     "애플리케이션.GarbageObjectExample.executor": "Run",
     "애플리케이션.IndexOfContainsExample.executor": "Run",
+    "애플리케이션.MainStringArrayArgument.executor": "Run",
     "애플리케이션.NullPointerExcpetionExample.executor": "Run",
     "애플리케이션.ReferenceVariableCompareExample.executor": "Run",
     "애플리케이션.ReplaceExample.executor": "Run",
@@ -91,7 +95,7 @@
       <updated>1765534631539</updated>
       <workItem from="1765534772947" duration="2752000" />
       <workItem from="1765538431809" duration="1945000" />
-      <workItem from="1765545658038" duration="650000" />
+      <workItem from="1765545658038" duration="2343000" />
     </task>
     <servers />
   </component>
