@@ -7,6 +7,6 @@ public class AdvancedForExample {
         for(int score : scores){
             sum +=score;
         }
-        System.out.println("총합 : "+sum);
+        System.out.println("총합 : "+sum);   //향상된 for 문
     }
 }
