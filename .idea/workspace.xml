@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec02/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec02/SmartPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec02/SmartPhoneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec03/exam01/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec03/exam01/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec03/exam01/SmartPhoneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec03/exam02/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec03/exam02/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec03/exam02/SmartPhoneExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,46 +45,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.AdvancedForExample.executor": "Run",
-    "애플리케이션.ArrayCreateByNewExample.executor": "Run",
-    "애플리케이션.ArrayCreateByValueListExample1.executor": "Run",
-    "애플리케이션.ArrayCreateByValueListExample2.executor": "Run",
-    "애플리케이션.ArrayReferenceObjectExample.executor": "Run",
-    "애플리케이션.CalculatorExample.executor": "Run",
-    "애플리케이션.Car.executor": "Run",
-    "애플리케이션.CarExample.executor": "Run",
-    "애플리케이션.CharAtExample.executor": "Run",
-    "애플리케이션.ComputerExample.executor": "Run",
-    "애플리케이션.EarthExample.executor": "Run",
-    "애플리케이션.EmptyStringExample.executor": "Run",
-    "애플리케이션.EqualsExample.executor": "Run",
-    "애플리케이션.GarbageObjectExample.executor": "Run",
-    "애플리케이션.IndexOfContainsExample.executor": "Run",
-    "애플리케이션.KoreanExample.executor": "Run",
-    "애플리케이션.MainStringArrayArgument.executor": "Run",
-    "애플리케이션.NullPointerExcpetionExample.executor": "Run",
-    "애플리케이션.ReferenceVariableCompareExample.executor": "Run",
-    "애플리케이션.ReplaceExample.executor": "Run",
-    "애플리케이션.SingletonExample.executor": "Run",
-    "애플리케이션.SmartPhoneExample.executor": "Run",
-    "애플리케이션.StudentExample.executor": "Run",
-    "애플리케이션.SubStringExample.executor": "Run",
-    "애플리케이션.TelevisionExample.executor": "Run",
-    "애플리케이션.splitExample.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.AdvancedForExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ArrayCreateByNewExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ArrayCreateByValueListExample1.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ArrayCreateByValueListExample2.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ArrayReferenceObjectExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.CalculatorExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Car.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.CarExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.CharAtExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ComputerExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.EarthExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.EmptyStringExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.EqualsExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.GarbageObjectExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.IndexOfContainsExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.KoreanExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.MainStringArrayArgument.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.NullPointerExcpetionExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ReferenceVariableCompareExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ReplaceExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.SingletonExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.SmartPhoneExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.StudentExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.SubStringExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.TelevisionExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.splitExample.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\khjae\IdeaProjects\java_pratice\untitled\src\ch05\sec03" />
@@ -110,7 +113,8 @@
       <workItem from="1765555051504" duration="1336000" />
       <workItem from="1765593748774" duration="2103000" />
       <workItem from="1765604343736" duration="2869000" />
-      <workItem from="1765607899712" duration="683000" />
+      <workItem from="1765607899712" duration="781000" />
+      <workItem from="1765616175473" duration="934000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
