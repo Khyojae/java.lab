@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch06/sec11/exam01/Korean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/sec11/exam01/KoreanExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +59,7 @@
     "애플리케이션.CarExample.executor": "Run",
     "애플리케이션.CharAtExample.executor": "Run",
     "애플리케이션.ComputerExample.executor": "Run",
+    "애플리케이션.EarthExample.executor": "Run",
     "애플리케이션.EmptyStringExample.executor": "Run",
     "애플리케이션.EqualsExample.executor": "Run",
     "애플리케이션.GarbageObjectExample.executor": "Run",
@@ -103,7 +101,7 @@
       <workItem from="1765545658038" duration="4015000" />
       <workItem from="1765552746791" duration="1528000" />
       <workItem from="1765555051504" duration="1336000" />
-      <workItem from="1765593748774" duration="1771000" />
+      <workItem from="1765593748774" duration="2103000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
