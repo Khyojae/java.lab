@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch06/sec15/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/sec15/SingletonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec02/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec02/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec02/SmartPhoneExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +75,7 @@
     "애플리케이션.ReferenceVariableCompareExample.executor": "Run",
     "애플리케이션.ReplaceExample.executor": "Run",
     "애플리케이션.SingletonExample.executor": "Run",
+    "애플리케이션.SmartPhoneExample.executor": "Run",
     "애플리케이션.StudentExample.executor": "Run",
     "애플리케이션.SubStringExample.executor": "Run",
     "애플리케이션.TelevisionExample.executor": "Run",
@@ -106,7 +109,8 @@
       <workItem from="1765552746791" duration="1528000" />
       <workItem from="1765555051504" duration="1336000" />
       <workItem from="1765593748774" duration="2103000" />
-      <workItem from="1765604343736" duration="2707000" />
+      <workItem from="1765604343736" duration="2869000" />
+      <workItem from="1765607899712" duration="683000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
