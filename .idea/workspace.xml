@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문" />
+    <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam01/PromotionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam02/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam02/ChildExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam02/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam03/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam03/ChildExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam03/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +37,10 @@
     &quot;url&quot;: &quot;https://github.com/Khyojae/java.lab.git&quot;,
     &quot;accountId&quot;: &quot;2812ea69-a765-4814-9b8f-886cc81efbd0&quot;
   }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
 }</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -58,6 +71,7 @@
     "애플리케이션.Car.executor": "Run",
     "애플리케이션.CarExample.executor": "Run",
     "애플리케이션.CharAtExample.executor": "Run",
+    "애플리케이션.ChildExample.executor": "Run",
     "애플리케이션.ComputerExample.executor": "Run",
     "애플리케이션.EarthExample.executor": "Run",
     "애플리케이션.EmptyStringExample.executor": "Run",
@@ -108,6 +122,8 @@
       <workItem from="1765604343736" duration="2869000" />
       <workItem from="1765607899712" duration="781000" />
       <workItem from="1765616175473" duration="2452000" />
+      <workItem from="1765624082251" duration="617000" />
+      <workItem from="1765636364698" duration="1176000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
