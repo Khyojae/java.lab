@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch08/sec07/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/sec07/ServiceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/sec07/ServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec08/MultiInterfaceImplExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec08/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec08/Searchable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec08/SmartTelevision.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch08/sec05/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch08/sec05/RemoteControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch08/sec05/RemoteControlExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch08/sec05/RemoteControlExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +84,7 @@
     "애플리케이션.InstanceofExample.executor": "Run",
     "애플리케이션.KoreanExample.executor": "Run",
     "애플리케이션.MainStringArrayArgument.executor": "Run",
+    "애플리케이션.MultiInterfaceImplExample.executor": "Run",
     "애플리케이션.NullPointerExcpetionExample.executor": "Run",
     "애플리케이션.ReferenceVariableCompareExample.executor": "Run",
     "애플리케이션.RemoteControlExample.executor": "Run",
@@ -136,7 +136,8 @@
       <workItem from="1765700673848" duration="1241000" />
       <workItem from="1765706343262" duration="737000" />
       <workItem from="1765713649851" duration="894000" />
-      <workItem from="1765718103292" duration="1608000" />
+      <workItem from="1765718103292" duration="1733000" />
+      <workItem from="1765725972797" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
