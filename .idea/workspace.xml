@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch08/sec09/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/sec09/InterfaceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/sec09/InterfaceC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/sec09/InterfaceCimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec10/exam01/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec10/exam01/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec10/exam01/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec10/exam01/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec10/exam01/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec10/exam01/PromotionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec10/exam02/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec10/exam02/CastingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec10/exam02/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +76,7 @@
     "애플리케이션.CalculatorExample.executor": "Run",
     "애플리케이션.Car.executor": "Run",
     "애플리케이션.CarExample.executor": "Run",
+    "애플리케이션.CastingExample.executor": "Run",
     "애플리케이션.CharAtExample.executor": "Run",
     "애플리케이션.ChildExample.executor": "Run",
     "애플리케이션.ComputerExample.executor": "Run",
@@ -137,7 +143,7 @@
       <workItem from="1765706343262" duration="737000" />
       <workItem from="1765713649851" duration="894000" />
       <workItem from="1765718103292" duration="1733000" />
-      <workItem from="1765725972797" duration="825000" />
+      <workItem from="1765725972797" duration="1455000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
