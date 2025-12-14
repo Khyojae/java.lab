@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam01/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam01/PhoneExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam01/SmartPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam02/AbstractMethodExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam02/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam02/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam02/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec02/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec02/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec02/RemoteControlExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec02/Television.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -41,6 +40,9 @@
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -84,6 +86,7 @@
     "애플리케이션.MainStringArrayArgument.executor": "Run",
     "애플리케이션.NullPointerExcpetionExample.executor": "Run",
     "애플리케이션.ReferenceVariableCompareExample.executor": "Run",
+    "애플리케이션.RemoteControlExample.executor": "Run",
     "애플리케이션.ReplaceExample.executor": "Run",
     "애플리케이션.SingletonExample.executor": "Run",
     "애플리케이션.SmartPhoneExample.executor": "Run",
@@ -127,7 +130,8 @@
       <workItem from="1765624082251" duration="617000" />
       <workItem from="1765636364698" duration="1273000" />
       <workItem from="1765637798313" duration="1508000" />
-      <workItem from="1765681605863" duration="2721000" />
+      <workItem from="1765681605863" duration="3431000" />
+      <workItem from="1765700673848" duration="950000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
