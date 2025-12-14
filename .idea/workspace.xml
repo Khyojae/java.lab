@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec09/InstanceofExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec09/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec09/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam01/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam01/PhoneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam01/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam02/AbstractMethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam02/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam02/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam02/Dog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +61,7 @@
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.AbstractMethodExample.executor": "Run",
     "애플리케이션.AdvancedForExample.executor": "Run",
     "애플리케이션.ArrayCreateByNewExample.executor": "Run",
     "애플리케이션.ArrayCreateByValueListExample1.executor": "Run",
@@ -123,7 +127,7 @@
       <workItem from="1765624082251" duration="617000" />
       <workItem from="1765636364698" duration="1273000" />
       <workItem from="1765637798313" duration="1508000" />
-      <workItem from="1765681605863" duration="1509000" />
+      <workItem from="1765681605863" duration="2721000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
