@@ -1,4 +1,4 @@
-package ch09.exam01;
+package ch09.sec02.exam01;
 
 public class A {
     class B {}
