@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec03/exam01/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec03/exam01/AExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec03/exam02/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec03/exam02/AExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec04/exam02/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec04/exam02/AExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch09/exam01/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/sec02/exam01/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch09/exam01/AExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/sec02/exam01/AExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch09/exam02/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/sec02/exam02/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch09/exam02/AExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/sec02/exam02/AExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +143,8 @@
       <workItem from="1765728434974" duration="217000" />
       <workItem from="1765729751492" duration="629000" />
       <workItem from="1765768619267" duration="2420000" />
-      <workItem from="1765771708505" duration="995000" />
+      <workItem from="1765771708505" duration="1772000" />
+      <workItem from="1765790803369" duration="730000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
