@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch12/sec04/ErrExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/sec04/ExitExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/sec04/GetPropertyExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/sec04/InExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/sec05/BytesToStringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/sec05/StringBuilderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/sec05/StringTokenizerExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12/sec03/exam05/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12/sec03/exam05/Member.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +78,7 @@
     "애플리케이션.ArrayCreateByValueListExample2.executor": "Run",
     "애플리케이션.ArrayReferenceObjectExample.executor": "Run",
     "애플리케이션.ButtonExample.executor": "Run",
+    "애플리케이션.BytesToStringExample.executor": "Run",
     "애플리케이션.CalculatorExample.executor": "Run",
     "애플리케이션.Car.executor": "Run",
     "애플리케이션.CarExample.executor": "Run",
@@ -116,6 +115,8 @@
     "애플리케이션.ServiceExample.executor": "Run",
     "애플리케이션.SingletonExample.executor": "Run",
     "애플리케이션.SmartPhoneExample.executor": "Run",
+    "애플리케이션.StringBuilderExample.executor": "Run",
+    "애플리케이션.StringTokenizerExample.executor": "Run",
     "애플리케이션.StudentExample.executor": "Run",
     "애플리케이션.SubStringExample.executor": "Run",
     "애플리케이션.SupersonicAirplaneExample.executor": "Run",
@@ -179,7 +180,8 @@
       <workItem from="1765901889821" duration="1714000" />
       <workItem from="1765903689304" duration="101000" />
       <workItem from="1765903814315" duration="792000" />
-      <workItem from="1765950067105" duration="2364000" />
+      <workItem from="1765950067105" duration="2469000" />
+      <workItem from="1765967006701" duration="823000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
