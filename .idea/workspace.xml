@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch12/sec05/BytesToStringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/sec05/StringBuilderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/sec05/StringTokenizerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/sec06/BoxingUnBoxingExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +74,7 @@
     "애플리케이션.ArrayCreateByValueListExample1.executor": "Run",
     "애플리케이션.ArrayCreateByValueListExample2.executor": "Run",
     "애플리케이션.ArrayReferenceObjectExample.executor": "Run",
+    "애플리케이션.BoxingUnBoxingExample.executor": "Run",
     "애플리케이션.ButtonExample.executor": "Run",
     "애플리케이션.BytesToStringExample.executor": "Run",
     "애플리케이션.CalculatorExample.executor": "Run",
@@ -181,7 +179,7 @@
       <workItem from="1765903689304" duration="101000" />
       <workItem from="1765903814315" duration="792000" />
       <workItem from="1765950067105" duration="2469000" />
-      <workItem from="1765967006701" duration="823000" />
+      <workItem from="1765967006701" duration="1130000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
