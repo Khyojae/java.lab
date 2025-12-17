@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문" />
+    <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
+      <change afterPath="$PROJECT_DIR$/src/ch13/sec02/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/sec02/GenericExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/sec02/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/sec02/Tv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/sec02/exam02/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/sec02/exam02/CarAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/sec02/exam02/GenericExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/sec02/exam02/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/sec02/exam02/HomeAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/sec02/exam02/Rentable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/sec02/exam03/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/sec02/exam03/GenericExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,6 +106,7 @@
     "애플리케이션.ExitExample.executor": "Run",
     "애플리케이션.ExtendsExample.executor": "Run",
     "애플리케이션.GarbageObjectExample.executor": "Run",
+    "애플리케이션.GenericExample.executor": "Run",
     "애플리케이션.GetClassExample.executor": "Run",
     "애플리케이션.GetPropertyExample.executor": "Run",
     "애플리케이션.HashCodeExample.executor": "Run",
@@ -126,8 +141,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\khjae\IdeaProjects\java_pratice\untitled\src\ch05\sec03" />
       <recent name="C:\Users\khjae\IdeaProjects\java_pratice\untitled\src" />
+      <recent name="C:\Users\khjae\IdeaProjects\java_pratice\untitled\src\ch05\sec03" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -180,6 +195,7 @@
       <workItem from="1765903814315" duration="792000" />
       <workItem from="1765950067105" duration="2469000" />
       <workItem from="1765967006701" duration="3733000" />
+      <workItem from="1765972010864" duration="1842000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
