@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch12/sec03/exam01/EqualsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/sec03/exam02/HashCodeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/sec03/exam02/HashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/sec03/exam02/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/sec03/exam03/SmartPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/sec03/exam03/ToStringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/sec03/exam04/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/sec03/exam04/RecordExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/sec03/exam05/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/sec04/ErrExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/sec04/ExitExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/sec04/GetPropertyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/sec04/InExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12/sec03/exam05/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12/sec03/exam05/Member.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,13 +91,17 @@
     "애플리케이션.EarthExample.executor": "Run",
     "애플리케이션.EmptyStringExample.executor": "Run",
     "애플리케이션.EqualsExample.executor": "Run",
+    "애플리케이션.ErrExample.executor": "Run",
     "애플리케이션.ExceptionHandlingExample.executor": "Run",
     "애플리케이션.ExceptionHandlingExample1.executor": "Run",
+    "애플리케이션.ExitExample.executor": "Run",
     "애플리케이션.ExtendsExample.executor": "Run",
     "애플리케이션.GarbageObjectExample.executor": "Run",
+    "애플리케이션.GetPropertyExample.executor": "Run",
     "애플리케이션.HashCodeExample.executor": "Run",
     "애플리케이션.HashSetExample.executor": "Run",
     "애플리케이션.HomeExample.executor": "Run",
+    "애플리케이션.InExample.executor": "Run",
     "애플리케이션.IndexOfContainsExample.executor": "Run",
     "애플리케이션.InstanceofExample.executor": "Run",
     "애플리케이션.KoreanExample.executor": "Run",
@@ -179,6 +179,7 @@
       <workItem from="1765901889821" duration="1714000" />
       <workItem from="1765903689304" duration="101000" />
       <workItem from="1765903814315" duration="792000" />
+      <workItem from="1765950067105" duration="2364000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
