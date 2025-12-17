@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch12/sec12/PrintAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/sec12/PrintAnnotationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/sec12/Service.java" afterDir="false" />
-    </list>
+    <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,7 +179,7 @@
       <workItem from="1765903689304" duration="101000" />
       <workItem from="1765903814315" duration="792000" />
       <workItem from="1765950067105" duration="2469000" />
-      <workItem from="1765967006701" duration="3393000" />
+      <workItem from="1765967006701" duration="3733000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
