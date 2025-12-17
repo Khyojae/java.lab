@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch11/sec06/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/sec06/AccountExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/sec06/InsufficientException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/sec03/exam01/EqualsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/sec03/exam02/HashCodeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/sec03/exam02/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/sec03/exam02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/sec03/exam03/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/sec03/exam03/ToStringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/sec03/exam04/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/sec03/exam04/RecordExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/sec03/exam05/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +58,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -59,7 +70,10 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.AExample.executor": "Run",
     "애플리케이션.AbstractMethodExample.executor": "Run",
@@ -85,6 +99,8 @@
     "애플리케이션.ExceptionHandlingExample1.executor": "Run",
     "애플리케이션.ExtendsExample.executor": "Run",
     "애플리케이션.GarbageObjectExample.executor": "Run",
+    "애플리케이션.HashCodeExample.executor": "Run",
+    "애플리케이션.HashSetExample.executor": "Run",
     "애플리케이션.HomeExample.executor": "Run",
     "애플리케이션.IndexOfContainsExample.executor": "Run",
     "애플리케이션.InstanceofExample.executor": "Run",
@@ -92,6 +108,7 @@
     "애플리케이션.MainStringArrayArgument.executor": "Run",
     "애플리케이션.MultiInterfaceImplExample.executor": "Run",
     "애플리케이션.NullPointerExcpetionExample.executor": "Run",
+    "애플리케이션.RecordExample.executor": "Run",
     "애플리케이션.ReferenceVariableCompareExample.executor": "Run",
     "애플리케이션.RemoteControlExample.executor": "Run",
     "애플리케이션.ReplaceExample.executor": "Run",
@@ -104,6 +121,7 @@
     "애플리케이션.SupersonicAirplaneExample.executor": "Run",
     "애플리케이션.TelevisionExample.executor": "Run",
     "애플리케이션.ThrowsExample2.executor": "Run",
+    "애플리케이션.ToStringExample.executor": "Run",
     "애플리케이션.splitExample.executor": "Run"
   }
 }]]></component>
@@ -154,7 +172,13 @@
       <workItem from="1765796333983" duration="1226000" />
       <workItem from="1765797733343" duration="49000" />
       <workItem from="1765809571496" duration="2402000" />
-      <workItem from="1765869551027" duration="2719000" />
+      <workItem from="1765869551027" duration="2783000" />
+      <workItem from="1765873932941" duration="1838000" />
+      <workItem from="1765875808601" duration="11000" />
+      <workItem from="1765886713922" duration="316000" />
+      <workItem from="1765901889821" duration="1714000" />
+      <workItem from="1765903689304" duration="101000" />
+      <workItem from="1765903814315" duration="792000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
@@ -173,5 +197,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="향상된 for문" />
     <option name="LAST_COMMIT_MESSAGE" value="향상된 for문" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
