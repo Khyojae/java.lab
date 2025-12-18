@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch13/sec04/GenericExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/sec05/Applicant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/sec05/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/sec05/GenericExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/sec05/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +190,7 @@
       <workItem from="1765972010864" duration="1958000" />
       <workItem from="1765974910161" duration="77000" />
       <workItem from="1765986816301" duration="50000" />
-      <workItem from="1766049894895" duration="1463000" />
+      <workItem from="1766049894895" duration="2261000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
