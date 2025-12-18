@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch13/sec05/Applicant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/sec05/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/sec05/GenericExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/sec05/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14/BeepPrintExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14/BeepPrintExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14/BeepPrintExample2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,86 +50,89 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;애플리케이션.AExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.AbstractMethodExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.AccountExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.AdvancedForExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ArrayCreateByNewExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ArrayCreateByValueListExample1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ArrayCreateByValueListExample2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ArrayReferenceObjectExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.BoxingUnBoxingExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ButtonExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.BytesToStringExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.CalculatorExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Car.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.CarExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.CastingExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.CharAtExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ChildExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ComputerExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.DriverExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.EarthExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.EmptyStringExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.EqualsExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ErrExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ExceptionHandlingExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ExceptionHandlingExample1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ExitExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ExtendsExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.GarbageObjectExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.GenericExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.GetClassExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.GetPropertyExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.HashCodeExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.HashSetExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.HomeExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.InExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.IndexOfContainsExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.InstanceofExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.KoreanExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MainStringArrayArgument.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MultiInterfaceImplExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.NullPointerExcpetionExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.RecordExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ReferenceVariableCompareExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.RemoteControlExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ReplaceExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.SealedExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ServiceExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.SingletonExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.SmartPhoneExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.StringBuilderExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.StringTokenizerExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.StudentExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.SubStringExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.SupersonicAirplaneExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.TelevisionExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ThrowsExample2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ToStringExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ValueCompareExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.splitExample.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.AExample.executor": "Run",
+    "애플리케이션.AbstractMethodExample.executor": "Run",
+    "애플리케이션.AccountExample.executor": "Run",
+    "애플리케이션.AdvancedForExample.executor": "Run",
+    "애플리케이션.ArrayCreateByNewExample.executor": "Run",
+    "애플리케이션.ArrayCreateByValueListExample1.executor": "Run",
+    "애플리케이션.ArrayCreateByValueListExample2.executor": "Run",
+    "애플리케이션.ArrayReferenceObjectExample.executor": "Run",
+    "애플리케이션.BeepPrintExample.executor": "Run",
+    "애플리케이션.BeepPrintExample1.executor": "Run",
+    "애플리케이션.BeepPrintExample2.executor": "Run",
+    "애플리케이션.BoxingUnBoxingExample.executor": "Run",
+    "애플리케이션.ButtonExample.executor": "Run",
+    "애플리케이션.BytesToStringExample.executor": "Run",
+    "애플리케이션.CalculatorExample.executor": "Run",
+    "애플리케이션.Car.executor": "Run",
+    "애플리케이션.CarExample.executor": "Run",
+    "애플리케이션.CastingExample.executor": "Run",
+    "애플리케이션.CharAtExample.executor": "Run",
+    "애플리케이션.ChildExample.executor": "Run",
+    "애플리케이션.ComputerExample.executor": "Run",
+    "애플리케이션.DriverExample.executor": "Run",
+    "애플리케이션.EarthExample.executor": "Run",
+    "애플리케이션.EmptyStringExample.executor": "Run",
+    "애플리케이션.EqualsExample.executor": "Run",
+    "애플리케이션.ErrExample.executor": "Run",
+    "애플리케이션.ExceptionHandlingExample.executor": "Run",
+    "애플리케이션.ExceptionHandlingExample1.executor": "Run",
+    "애플리케이션.ExitExample.executor": "Run",
+    "애플리케이션.ExtendsExample.executor": "Run",
+    "애플리케이션.GarbageObjectExample.executor": "Run",
+    "애플리케이션.GenericExample.executor": "Run",
+    "애플리케이션.GetClassExample.executor": "Run",
+    "애플리케이션.GetPropertyExample.executor": "Run",
+    "애플리케이션.HashCodeExample.executor": "Run",
+    "애플리케이션.HashSetExample.executor": "Run",
+    "애플리케이션.HomeExample.executor": "Run",
+    "애플리케이션.InExample.executor": "Run",
+    "애플리케이션.IndexOfContainsExample.executor": "Run",
+    "애플리케이션.InstanceofExample.executor": "Run",
+    "애플리케이션.KoreanExample.executor": "Run",
+    "애플리케이션.MainStringArrayArgument.executor": "Run",
+    "애플리케이션.MultiInterfaceImplExample.executor": "Run",
+    "애플리케이션.NullPointerExcpetionExample.executor": "Run",
+    "애플리케이션.RecordExample.executor": "Run",
+    "애플리케이션.ReferenceVariableCompareExample.executor": "Run",
+    "애플리케이션.RemoteControlExample.executor": "Run",
+    "애플리케이션.ReplaceExample.executor": "Run",
+    "애플리케이션.SealedExample.executor": "Run",
+    "애플리케이션.ServiceExample.executor": "Run",
+    "애플리케이션.SingletonExample.executor": "Run",
+    "애플리케이션.SmartPhoneExample.executor": "Run",
+    "애플리케이션.StringBuilderExample.executor": "Run",
+    "애플리케이션.StringTokenizerExample.executor": "Run",
+    "애플리케이션.StudentExample.executor": "Run",
+    "애플리케이션.SubStringExample.executor": "Run",
+    "애플리케이션.SupersonicAirplaneExample.executor": "Run",
+    "애플리케이션.TelevisionExample.executor": "Run",
+    "애플리케이션.ThrowsExample2.executor": "Run",
+    "애플리케이션.ToStringExample.executor": "Run",
+    "애플리케이션.ValueCompareExample.executor": "Run",
+    "애플리케이션.splitExample.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\khjae\IdeaProjects\java_pratice\untitled\src" />
@@ -190,7 +192,8 @@
       <workItem from="1765972010864" duration="1958000" />
       <workItem from="1765974910161" duration="77000" />
       <workItem from="1765986816301" duration="50000" />
-      <workItem from="1766049894895" duration="2261000" />
+      <workItem from="1766049894895" duration="2331000" />
+      <workItem from="1766070615920" duration="1014000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
