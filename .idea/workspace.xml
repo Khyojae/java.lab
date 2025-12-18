@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec04/ThreadNameExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14/sec05/exam01/SleepExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14/sec05/exam02/JoinExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14/sec05/exam02/SumThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14/sec05/exam03/WorkThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14/sec05/exam03/YieldExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +111,7 @@
     "애플리케이션.InExample.executor": "Run",
     "애플리케이션.IndexOfContainsExample.executor": "Run",
     "애플리케이션.InstanceofExample.executor": "Run",
+    "애플리케이션.JoinExample.executor": "Run",
     "애플리케이션.KoreanExample.executor": "Run",
     "애플리케이션.MainStringArrayArgument.executor": "Run",
     "애플리케이션.MultiInterfaceImplExample.executor": "Run",
@@ -117,6 +123,7 @@
     "애플리케이션.SealedExample.executor": "Run",
     "애플리케이션.ServiceExample.executor": "Run",
     "애플리케이션.SingletonExample.executor": "Run",
+    "애플리케이션.SleepExample.executor": "Run",
     "애플리케이션.SmartPhoneExample.executor": "Run",
     "애플리케이션.StringBuilderExample.executor": "Run",
     "애플리케이션.StringTokenizerExample.executor": "Run",
@@ -128,6 +135,7 @@
     "애플리케이션.ThrowsExample2.executor": "Run",
     "애플리케이션.ToStringExample.executor": "Run",
     "애플리케이션.ValueCompareExample.executor": "Run",
+    "애플리케이션.YieldExample.executor": "Run",
     "애플리케이션.splitExample.executor": "Run"
   }
 }]]></component>
@@ -191,7 +199,7 @@
       <workItem from="1765974910161" duration="77000" />
       <workItem from="1765986816301" duration="50000" />
       <workItem from="1766049894895" duration="2331000" />
-      <workItem from="1766070615920" duration="1361000" />
+      <workItem from="1766070615920" duration="2572000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
