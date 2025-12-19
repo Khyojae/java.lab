@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec07/exam01/PrintThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec07/exam01/SafeStopExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec07/exam02/InterruptExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec07/exam02/PrintThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14/sec08/AutoSaveThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14/sec08/DaemonExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +88,7 @@
     "애플리케이션.CharAtExample.executor": "Run",
     "애플리케이션.ChildExample.executor": "Run",
     "애플리케이션.ComputerExample.executor": "Run",
+    "애플리케이션.DaemonExample.executor": "Run",
     "애플리케이션.DriverExample.executor": "Run",
     "애플리케이션.EarthExample.executor": "Run",
     "애플리케이션.EmptyStringExample.executor": "Run",
@@ -203,7 +201,7 @@
       <workItem from="1765986816301" duration="50000" />
       <workItem from="1766049894895" duration="2331000" />
       <workItem from="1766070615920" duration="2710000" />
-      <workItem from="1766121624798" duration="3130000" />
+      <workItem from="1766121624798" duration="3537000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
