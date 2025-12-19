@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec08/AutoSaveThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec08/DaemonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14/sec09/exam01/ExecutorServiceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14/sec09/exam02/RunnableExecuteExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14/sec09/exam03/CallableSubmitExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +84,7 @@
     "애플리케이션.ButtonExample.executor": "Run",
     "애플리케이션.BytesToStringExample.executor": "Run",
     "애플리케이션.CalculatorExample.executor": "Run",
+    "애플리케이션.CallableSubmitExample.executor": "Run",
     "애플리케이션.Car.executor": "Run",
     "애플리케이션.CarExample.executor": "Run",
     "애플리케이션.CastingExample.executor": "Run",
@@ -118,6 +121,7 @@
     "애플리케이션.ReferenceVariableCompareExample.executor": "Run",
     "애플리케이션.RemoteControlExample.executor": "Run",
     "애플리케이션.ReplaceExample.executor": "Run",
+    "애플리케이션.RunnableExecuteExample.executor": "Run",
     "애플리케이션.SafeStopExample.executor": "Run",
     "애플리케이션.SealedExample.executor": "Run",
     "애플리케이션.ServiceExample.executor": "Run",
@@ -201,7 +205,7 @@
       <workItem from="1765986816301" duration="50000" />
       <workItem from="1766049894895" duration="2331000" />
       <workItem from="1766070615920" duration="2710000" />
-      <workItem from="1766121624798" duration="3537000" />
+      <workItem from="1766121624798" duration="5485000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
