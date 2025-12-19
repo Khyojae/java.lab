@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec06/exam01/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec06/exam01/SynchronizedExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec06/exam01/User1Thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec06/exam01/User2Thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec06/exam02/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec06/exam02/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec06/exam02/WaitNotifyExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec06/exam02/WorkObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14/sec07/exam01/PrintThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14/sec07/exam01/SafeStopExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14/sec07/exam02/InterruptExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14/sec07/exam02/PrintThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,6 +110,7 @@
     "애플리케이션.InExample.executor": "Run",
     "애플리케이션.IndexOfContainsExample.executor": "Run",
     "애플리케이션.InstanceofExample.executor": "Run",
+    "애플리케이션.InterruptExample.executor": "Run",
     "애플리케이션.JoinExample.executor": "Run",
     "애플리케이션.KoreanExample.executor": "Run",
     "애플리케이션.MainStringArrayArgument.executor": "Run",
@@ -123,6 +120,7 @@
     "애플리케이션.ReferenceVariableCompareExample.executor": "Run",
     "애플리케이션.RemoteControlExample.executor": "Run",
     "애플리케이션.ReplaceExample.executor": "Run",
+    "애플리케이션.SafeStopExample.executor": "Run",
     "애플리케이션.SealedExample.executor": "Run",
     "애플리케이션.ServiceExample.executor": "Run",
     "애플리케이션.SingletonExample.executor": "Run",
@@ -205,7 +203,7 @@
       <workItem from="1765986816301" duration="50000" />
       <workItem from="1766049894895" duration="2331000" />
       <workItem from="1766070615920" duration="2710000" />
-      <workItem from="1766121624798" duration="1687000" />
+      <workItem from="1766121624798" duration="3130000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
