@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch15/sec04/exam01/HashMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch15/sec04/exam02/HashtableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch15/sec04/exam03/PropertiesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch15/sec04/exam03/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec05/exam01/TreeSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec05/exam02/TreeMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec05/exam03/ComparableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec05/exam03/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec05/exam04/ComparatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec05/exam04/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec05/exam04/FruitComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +95,7 @@
     "애플리케이션.CastingExample.executor": "Run",
     "애플리케이션.CharAtExample.executor": "Run",
     "애플리케이션.ChildExample.executor": "Run",
+    "애플리케이션.ComparableExample.executor": "Run",
     "애플리케이션.ComputerExample.executor": "Run",
     "애플리케이션.DaemonExample.executor": "Run",
     "애플리케이션.DriverExample.executor": "Run",
@@ -122,6 +126,7 @@
     "애플리케이션.MainStringArrayArgument.executor": "Run",
     "애플리케이션.MultiInterfaceImplExample.executor": "Run",
     "애플리케이션.NullPointerExcpetionExample.executor": "Run",
+    "애플리케이션.PropertiesExample.executor": "Run",
     "애플리케이션.RecordExample.executor": "Run",
     "애플리케이션.ReferenceVariableCompareExample.executor": "Run",
     "애플리케이션.RemoteControlExample.executor": "Run",
@@ -143,6 +148,7 @@
     "애플리케이션.ThreadNameExample.executor": "Run",
     "애플리케이션.ThrowsExample2.executor": "Run",
     "애플리케이션.ToStringExample.executor": "Run",
+    "애플리케이션.TreeSetExample.executor": "Run",
     "애플리케이션.ValueCompareExample.executor": "Run",
     "애플리케이션.VectorExample.executor": "Run",
     "애플리케이션.WaitNotifyExample.executor": "Run",
@@ -215,7 +221,7 @@
       <workItem from="1766132286628" duration="1604000" />
       <workItem from="1766134768102" duration="1781000" />
       <workItem from="1766148073750" duration="47000" />
-      <workItem from="1766230734262" duration="981000" />
+      <workItem from="1766230734262" duration="4559000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
