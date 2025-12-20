@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch15/sec08/ImmutableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec01/Calculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec01/LamdaExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +119,7 @@
     "애플리케이션.InterruptExample.executor": "Run",
     "애플리케이션.JoinExample.executor": "Run",
     "애플리케이션.KoreanExample.executor": "Run",
+    "애플리케이션.LamdaExample.executor": "Run",
     "애플리케이션.LinkedListExample.executor": "Run",
     "애플리케이션.MainStringArrayArgument.executor": "Run",
     "애플리케이션.MultiInterfaceImplExample.executor": "Run",
@@ -219,7 +222,9 @@
       <workItem from="1766134768102" duration="1781000" />
       <workItem from="1766148073750" duration="47000" />
       <workItem from="1766230734262" duration="5669000" />
-      <workItem from="1766237554076" duration="725000" />
+      <workItem from="1766237554076" duration="776000" />
+      <workItem from="1766238756206" duration="14000" />
+      <workItem from="1766243578220" duration="320000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
