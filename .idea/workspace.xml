@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch16/sec02/exam01/Lamda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/sec02/exam01/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/sec02/exam01/Workable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/sec02/exam02/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/sec02/exam02/ButtonExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec03/LamdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec03/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec03/Speakable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec03/Workable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +227,7 @@
       <workItem from="1766237554076" duration="776000" />
       <workItem from="1766238756206" duration="14000" />
       <workItem from="1766243578220" duration="523000" />
-      <workItem from="1766288402558" duration="1003000" />
+      <workItem from="1766288402558" duration="2214000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
