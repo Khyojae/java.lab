@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch16/sec06/ConstructorReferenceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/sec06/Creatable1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/sec06/Creatable2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/sec06/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/sec06/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec01/exam01/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec02/ParallelStreamExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,6 +126,7 @@
     "애플리케이션.MethodReferenceExample.executor": "Run",
     "애플리케이션.MultiInterfaceImplExample.executor": "Run",
     "애플리케이션.NullPointerExcpetionExample.executor": "Run",
+    "애플리케이션.ParallelStreamExample.executor": "Run",
     "애플리케이션.PropertiesExample.executor": "Run",
     "애플리케이션.QueueExample.executor": "Run",
     "애플리케이션.RecordExample.executor": "Run",
@@ -142,6 +140,7 @@
     "애플리케이션.SingletonExample.executor": "Run",
     "애플리케이션.SleepExample.executor": "Run",
     "애플리케이션.SmartPhoneExample.executor": "Run",
+    "애플리케이션.StreamExample.executor": "Run",
     "애플리케이션.StringBuilderExample.executor": "Run",
     "애플리케이션.StringTokenizerExample.executor": "Run",
     "애플리케이션.StudentExample.executor": "Run",
@@ -231,7 +230,8 @@
       <workItem from="1766238756206" duration="14000" />
       <workItem from="1766243578220" duration="523000" />
       <workItem from="1766288402558" duration="2502000" />
-      <workItem from="1766303225203" duration="2216000" />
+      <workItem from="1766303225203" duration="2374000" />
+      <workItem from="1766337644308" duration="657000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
