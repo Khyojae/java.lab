@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec01/exam01/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec02/ParallelStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec04/exam01/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec04/exam01/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec04/exam02/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec04/exam03/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec04/exam04/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec04/exam04/data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +70,7 @@
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.AExample.executor": "Run",
@@ -142,6 +147,7 @@
     "애플리케이션.SmartPhoneExample.executor": "Run",
     "애플리케이션.StreamExample.executor": "Run",
     "애플리케이션.StringBuilderExample.executor": "Run",
+    "애플리케이션.StringExample.executor": "Run",
     "애플리케이션.StringTokenizerExample.executor": "Run",
     "애플리케이션.StudentExample.executor": "Run",
     "애플리케이션.SubStringExample.executor": "Run",
@@ -231,7 +237,8 @@
       <workItem from="1766243578220" duration="523000" />
       <workItem from="1766288402558" duration="2502000" />
       <workItem from="1766303225203" duration="2374000" />
-      <workItem from="1766337644308" duration="657000" />
+      <workItem from="1766337644308" duration="1342000" />
+      <workItem from="1766366644334" duration="1449000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
