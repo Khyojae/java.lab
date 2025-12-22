@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec09/MatchingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec10/AggregateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec10/OptionalExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +73,7 @@
     "애플리케이션.AbstractMethodExample.executor": "Run",
     "애플리케이션.AccountExample.executor": "Run",
     "애플리케이션.AdvancedForExample.executor": "Run",
+    "애플리케이션.AggregateExample.executor": "Run",
     "애플리케이션.ArrayCreateByNewExample.executor": "Run",
     "애플리케이션.ArrayCreateByValueListExample1.executor": "Run",
     "애플리케이션.ArrayCreateByValueListExample2.executor": "Run",
@@ -240,6 +243,7 @@
       <workItem from="1766374336977" duration="2374000" />
       <workItem from="1766378929849" duration="53000" />
       <workItem from="1766385052392" duration="603000" />
+      <workItem from="1766395118224" duration="652000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
