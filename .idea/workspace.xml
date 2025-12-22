@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec07/exam01/SortingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec07/exam01/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec07/exam02/SortingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec07/exam02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec08/LoopingExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,6 +122,7 @@
     "애플리케이션.Lamda.executor": "Run",
     "애플리케이션.LamdaExample.executor": "Run",
     "애플리케이션.LinkedListExample.executor": "Run",
+    "애플리케이션.LoopingExample.executor": "Run",
     "애플리케이션.MainStringArrayArgument.executor": "Run",
     "애플리케이션.MapExample.executor": "Run",
     "애플리케이션.MethodReferenceExample.executor": "Run",
@@ -239,7 +237,9 @@
       <workItem from="1766303225203" duration="2374000" />
       <workItem from="1766337644308" duration="1342000" />
       <workItem from="1766366644334" duration="3382000" />
-      <workItem from="1766374336977" duration="2333000" />
+      <workItem from="1766374336977" duration="2374000" />
+      <workItem from="1766378929849" duration="53000" />
+      <workItem from="1766385052392" duration="357000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
