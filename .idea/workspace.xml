@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af97d544-0223-4f7e-9b2a-5c29af2ca663" name="변경" comment="향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec06/exam01/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec06/exam01/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec06/exam02/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec07/exam01/SortingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec07/exam01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec07/exam02/SortingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec07/exam02/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,6 +144,7 @@
     "애플리케이션.SingletonExample.executor": "Run",
     "애플리케이션.SleepExample.executor": "Run",
     "애플리케이션.SmartPhoneExample.executor": "Run",
+    "애플리케이션.SortingExample.executor": "Run",
     "애플리케이션.StreamExample.executor": "Run",
     "애플리케이션.StringBuilderExample.executor": "Run",
     "애플리케이션.StringExample.executor": "Run",
@@ -235,7 +238,8 @@
       <workItem from="1766288402558" duration="2502000" />
       <workItem from="1766303225203" duration="2374000" />
       <workItem from="1766337644308" duration="1342000" />
-      <workItem from="1766366644334" duration="2665000" />
+      <workItem from="1766366644334" duration="3382000" />
+      <workItem from="1766374336977" duration="2333000" />
     </task>
     <task id="LOCAL-00001" summary="향상된 for문">
       <option name="closed" value="true" />
